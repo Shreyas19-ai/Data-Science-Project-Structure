@@ -1,0 +1,10 @@
+numpy 
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# -e .
+
+## When executing pip install -r requirements.txt, if it sees  '-e .'  it triggers setup.py to run and setup.py will execute
+## But -e . is not a package so it needs to be ignored
