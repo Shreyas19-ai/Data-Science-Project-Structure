@@ -1,5 +1,7 @@
 ### End to End Data Science Project Structure
 
+- It contains data ingestion through a DataBase
+
 If we want to automate project structure we use **cookiecutter**
 Steps:
 1. Install cookiecutter
