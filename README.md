@@ -1,7 +1,7 @@
 ### End to End Data Science Project Structure
 
 If we want to automate project structure we use **cookiecutter**
-\nSteps:
+Steps:
 1. Install cookiecutter
 ```
 pip install cookiecutter
